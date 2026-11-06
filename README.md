@@ -28,6 +28,7 @@
 - [Perplexity](https://www.perplexity.ai/) - AI answer engine that cites its sources, handy for market research. 🆓
 - [Manus](https://manus.im/) - General-purpose AI agent that runs multi-step research, slide and website tasks. 🆓
 - [Genspark](https://www.genspark.ai/) - AI "super agent" workspace with agents for slides, docs and sheets. See site for plans.
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research platform that looks for disconfirming evidence before you form a conviction. 🆓
 
 ## AI App and Website Builders
 
