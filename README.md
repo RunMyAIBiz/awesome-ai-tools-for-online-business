@@ -55,6 +55,8 @@
 ## Design, Slides and Visuals
 
 - [Canva](https://www.canva.com/) - Design tool with AI features for social posts, slides, PDFs and video. 🆓
+- [Cyanvid](https://cyanvid.com/?utm_source=runmyaibiz-awesome-ai-tools-for-online-business&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images with credit quotes before generate. 🆓
+- [Barz Studio](https://barzvideo.com/?utm_source=runmyaibiz-awesome-ai-tools-for-online-business&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM. 🆓
 - [Gamma](https://gamma.app/) - AI-generated presentations, documents and one-page websites. 🆓
 
 ## Email and Audience
