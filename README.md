@@ -24,6 +24,7 @@
 ## AI Assistants and Research
 
 - [ChatGPT](https://chatgpt.com/) - OpenAI's all-purpose assistant for brainstorming, writing and analysis. 🆓
+- [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) - Chrome extension for timed ChatGPT continuation, per-tab controls, and long-chat context handoff. 🆓
 - [Claude](https://claude.com/) - Anthropic's assistant for writing, analysis and long documents. 🆓
 - [Perplexity](https://www.perplexity.ai/) - AI answer engine that cites its sources, handy for market research. 🆓
 - [Manus](https://manus.im/) - General-purpose AI agent that runs multi-step research, slide and website tasks. 🆓
